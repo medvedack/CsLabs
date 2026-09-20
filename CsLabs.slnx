@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../sem-1-lab-00/sem-1-lab-00.csproj" />
+  <Project Path="../sem-1-lab-01-server-monitoring/sem-1-lab-01-server-monitoring.csproj" />
+  <Project Path="../sem-1-lab-02-server-config/sem-1-lab-02-server-config.csproj" />
+</Solution>
