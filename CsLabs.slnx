@@ -1,5 +1,8 @@
 <Solution>
+  <Folder Name="/lab02/">
+    <Project Path="lab02.Tests/lab02.Tests.csproj" Id="3f577840-da2e-44ee-a3f0-658089d75b95" />
+    <Project Path="sem-1-lab-02-server-config/sem-1-lab-02-server-config.csproj" />
+  </Folder>
   <Project Path="sem-1-lab-00/sem-1-lab-00.csproj" />
   <Project Path="sem-1-lab-01-server-monitoring/sem-1-lab-01-server-monitoring.csproj" />
-  <Project Path="sem-1-lab-02-server-config/sem-1-lab-02-server-config.csproj" />
 </Solution>
